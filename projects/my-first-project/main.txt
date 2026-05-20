@@ -1,3 +1,0 @@
-Welcome to the sample project!
-
-This file proves the ZIP archive includes real content.

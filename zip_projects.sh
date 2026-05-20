@@ -3,7 +3,7 @@ set -euo pipefail
 
 ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 PROJECTS="$ROOT/projects"
-DOWNLOADS="$ROOT/downloads"
+DOWNLOADS="$ROOT/public/downloads"
 
 mkdir -p "$DOWNLOADS"
 

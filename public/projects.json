@@ -1,12 +1,12 @@
 {
   "projects": [
     {
-      "name": "50-websites-unblocked.txt",
-      "download": "downloads/50-websites-unblocked.txt.zip"
+      "name": "Unblocked Websites",
+      "download": "downloads/Unblocked-sites.zip"
     },
     {
-      "name": "test",
-      "download": "downloads/test.zip"
+      "name": "BlackJack",
+      "download": "downloads/BlackJack.zip"
     }
   ]
 }
